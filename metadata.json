@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Maintenance AI",
+  "description": "An AI-powered system that predicts and prevents equipment failures using real-time sensor data (temperature, vibration, pressure).",
+  "requestFramePermissions": []
+}
